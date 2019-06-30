@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rektrex/soccer-video-bot/issues"
   },
-  "homepage": "https://github.com/rektrex/soccer-video-bot#readme"
+  "homepage": "https://github.com/rektrex/soccer-video-bot#readme",
+  "dependencies": {
+    "eventsource": "^1.0.7"
+  }
 }
