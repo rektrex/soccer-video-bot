@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/rektrex/soccer-video-bot#readme",
   "dependencies": {
-    "eventsource": "^1.0.7",
+    "eventsource": "^2.0.2",
     "node-fetch": "^2.6.1",
     "snoowrap": "^1.17.0"
   }
